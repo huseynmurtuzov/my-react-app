@@ -1,0 +1,41 @@
+[
+    {
+    "id": 1,
+    "type": "Texniki Problem",
+    "title": "Kassa sistemi çalışmır",
+    "sender": "İsci",
+    "store": "Kontakt Home Binə",
+    "date": "2024-01-15",
+    "time": "14:30",
+    "status": "Yeni",
+    "priority": "Yüksək",
+    "description": "Əsas kassa sisteminde texniki problem var.",
+    "files": ["kassa-problem-foto.jpg"]
+  },
+  {
+    "id": 2,
+    "type": "İşçi Problemi",
+    "title": "İşçi əksikliyi",
+    "sender": "İsci",
+    "store": "Kontakt Home Masazır",
+    "date": "2024-01-15",
+    "time": "12:15",
+    "status": "İncələnir",
+    "priority": "Orta",
+    "description": "Bugün 2 personel xəstə oldu.",
+    "files": []
+  },
+  {
+    "id": 3,
+    "type": "Müştəri Şikayəti",
+    "title": "Məhsul keyfiyyəti şikayəti",
+    "sender": "İsci",
+    "store": "Kontakt Home Nerimanov",
+    "date": "2024-01-14",
+    "time": "16:45",
+    "status": "Həll olundu",
+    "priority": "Zəif",
+    "description": "Müştəri aldığı televizorun keyfiyyətindən məmnun deyil. ",
+    "files": ["musteri-sikayeti.pdf"]
+  }
+]

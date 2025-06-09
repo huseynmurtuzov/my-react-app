@@ -1,0 +1,32 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: #f8f8f8;
+  color: #333;
+}
+
+header {
+  background-color: #4f46e5;
+  color: white;
+  padding: 1rem;
+  text-align: center;
+}
+
+.intro {
+  padding: 1rem;
+  background: white;
+  margin: 1rem;
+  border-radius: 0.5rem;
+}
+
+@media (min-width: 600px) {
+  body::before {
+    content: "Bu sayt sadece helelik mobil ucun duzeldilib.";
+    display: block;
+    background: red;
+    color: white;
+    text-align: center;
+    padding: 0.5rem;
+  }
+}
